@@ -71,3 +71,16 @@ corresponding portfolio citations:
   howpublished = {\url{https://github.com/arana-initiatives/agro-point-cloud-seg-pipeline}},
 }
 ```
+
+**`Manufactoring Portfolio Citation`**
+
+```
+@misc{manufactoring-marls-case-study,
+  author = {Rana, Ashish},
+  title = {Exploring Scope of Using Multi-Agent Reinforcement Learning Systems for Efficient Warehouse Management with Robots},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/ashishrana160796/analyzing-cooperative-marls}},
+}
+```
