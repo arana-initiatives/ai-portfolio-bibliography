@@ -15,6 +15,7 @@ Also, in below sections the corresponding links for practical work associated wi
 * [Exploring Scope of Using Multi-Agent Reinforcement Learning Systems for Efficient Warehouse Management with Robots](exploring-scope-of-using-multi-agent-reinforcement-learning-systems-for-efficient-warehouse-management-with-robots)
   * [Conventional Optimization Approaches](#conventional-optimization-approaches)
   * [Reinforcement Learning Approaches](#reinforcement-learning-approaches)
+* [Exploring Robustness of Automated Pricing Algorithmic Collusion in Financial Markets](exploring-robustness-of-automated-pricing-algorithmic-collusion-in-financial-markets)
 * [Citing the Experiments and Theoretical Documents for the submitted AI Portfolios](#citing-the-experiments-and-theoretical-documents-for-the-submitted-ai-portfolios)
 
 ### Exploring Scope of Applying Deep Learning Techniques on 3D Agriculture Data
@@ -54,6 +55,14 @@ Also, in below sections the corresponding links for practical work associated wi
 
 * **`Scalable HNSAC for MARLS`**: [Scalable Multi-Agent Reinforcement Learning for Warehouse Logistics with Robotic and Human Co-Workers](https://arxiv.org/abs/2212.11498), Krnjaic A. et al. (2022).
 
+#### Exploring Robustness of Automated Pricing Algorithmic Collusion in Financial Markets
+
+* **`Algorithmic Collusion Feasibility`**: [Robust Algorithmic Collusion](https://arxiv.org/abs/2201.00345), Eschenbaum N. et al. (2021).
+
+* **`Baseline Deep Learning Collusion`**: [Algorithmic Collusion: Insights from Deep Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785966), Hettich M. (2021).
+
+* **`Replay Based Collusion`**: [Understanding algorithmic collusion with experience replay](https://arxiv.org/abs/2102.09139), Han B. et al. (2021).
+
 #### Citing the Experiments and Theoretical Documents for the Submitted AI Portfolios
 
 If you find any of the theoretical work interesting and useful in your research work, please consider citing it with
@@ -84,3 +93,17 @@ corresponding portfolio citations:
   howpublished = {\url{https://github.com/ashishrana160796/analyzing-cooperative-marls}},
 }
 ```
+
+**`Finance Portfolio Citation`**
+
+```
+@misc{algorithmic-collusion-analysis,
+  author = {Rana, Ashish},
+  title = {Exploring Robustness of Automated Pricing Algorithmic Collusion in Financial Markets},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/arana-initiatives/social-dilemma-collusion}},
+}
+```
+
