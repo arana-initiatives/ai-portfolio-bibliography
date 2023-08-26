@@ -103,7 +103,7 @@ corresponding portfolio citations:
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/arana-initiatives/social-dilemma-collusion}},
+  howpublished = {\url{https://github.com/arana-initiatives/boosting-social-dilemma-collusion}},
 }
 ```
 
